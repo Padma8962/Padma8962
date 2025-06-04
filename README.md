@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padma8962&label=Profile%20views&color=0e75b6&style=flat" alt="padma8962" /> </p>
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Padma8962](https://github.com/Padma8962)
 
